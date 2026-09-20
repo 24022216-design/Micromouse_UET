@@ -12,5 +12,8 @@ ICM20602 x1 ( kh phải MPU 6050)
 
 
 
+https://www.facebook.com/toan.dangmanh.16?locale=vi_VN
+
+
 https://github.com/user-attachments/assets/f930a51e-2df9-4011-bf06-e40f06043841
 
