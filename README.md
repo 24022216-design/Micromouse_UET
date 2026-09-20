@@ -1,7 +1,4 @@
 
-
-Uploading 2aOboQzwNRsjv8s7yUvmzoLd6SjnRg8RZUtUTtXE.mp4…
-
 # Micromouse_UET
 Dự án micromouse basic của mình. 
 Gồm:
@@ -12,3 +9,8 @@ VL53L0X x4
 Tụ 104 0603
 Tụ hóa 330uF 16V 
 ICM20602 x1 ( kh phải MPU 6050)
+
+
+
+https://github.com/user-attachments/assets/f930a51e-2df9-4011-bf06-e40f06043841
+
